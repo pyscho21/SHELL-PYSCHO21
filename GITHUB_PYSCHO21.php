@@ -65,7 +65,7 @@ if (!isset($_SESSION['loggedin'])) {
     <input type="text" name="user" placeholder="Username"><br>
     <input type="password" name="pass" placeholder="Password"><br>
     <button class="login-btn" type="submit">Login</button>
-    </form><div style="margin-top:30px;font-size:12px;">Coded by @Capcucua</div>
+    </form><div style="margin-top:30px;font-size:12px;">Coded by @Pyscho21</div>
     </body></html>';
     exit;
 }
